@@ -1,0 +1,4 @@
+elixir_container:
+  build: .
+  volumes:
+    - .:/usr/src/app/
